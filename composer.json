@@ -25,9 +25,6 @@
         "zendframework/zendservice-google-gcm": "1.*",
         "doctrine/inflector": "~1.0"
     },
-    "require-dev": {
-        "atoum/atoum": "dev-master"
-    },
     "config": {
         "bin-dir": "bin"
     },
